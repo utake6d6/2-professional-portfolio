@@ -38,7 +38,7 @@ Screenshot URL:
 
 <h2>
 Repository URL:
-<a href="https://github.com/utake6d6/2-professional-portfolio" target="_blank"></a>"https://github.com/utake6d6/2-professional-portfolio</a>
+<a href="https://github.com/utake6d6/2-professional-portfolio" target="_blank"></a>https://github.com/utake6d6/2-professional-portfolio</a>
 </h2>
 
 <h2>
