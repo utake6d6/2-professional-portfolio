@@ -33,12 +33,12 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 <h2>
 Screenshot URL:
-<a href="https://github.com/utake6d6/2-professional-portfolio/blob/master/assests/images/_C__Users_berto_Desktop_projects_challenge_2_portfolio_portfolio.html.png" target="_blank"</a>Bert's Portfolio</a>
+<a href="https://github.com/utake6d6/2-professional-portfolio/blob/master/assests/images/_C__Users_berto_Desktop_projects_challenge_2_portfolio_portfolio.html.png"</a>Bert's Portfolio</a>
 </h2>
 
 <h2>
 Repository URL:
-<a href="https://github.com/utake6d6/2-professional-portfolio" target="_blank"></a>https://github.com/utake6d6/2-professional-portfolio</a>
+<a href="https://github.com/utake6d6/2-professional-portfolio"</a>https://github.com/utake6d6/2-professional-portfolio</a>
 </h2>
 
 <h2>
